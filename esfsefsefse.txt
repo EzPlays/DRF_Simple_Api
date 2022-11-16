@@ -1,0 +1,36 @@
+python -m virtualenv venv
+
+pip install django
+
+pip install djangorestframework
+
+django-admin startproject drfsimplecrud .
+
+py .\manage.py startapp projects
+
+py .\manage.py makemigations
+
+py .\manage.py migrate 
+
+py .\manage.py runserver  
+
+
+https://www.django-rest-framework.org/tutorial/quickstart/
+
+https://www.django-rest-framework.org/api-guide/serializers/
+
+https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
+
+https://www.django-rest-framework.org/api-guide/viewsets/
+
+https://www.django-rest-framework.org/api-guide/permissions/#setting-the-permission-policy
+
+https://www.django-rest-framework.org/api-guide/routers/
+
+https://www.django-rest-framework.org/api-guide/pagination/#drf-extensions
+
+
+https://stackoverflow.com/questions/19189813/setting-django-up-to-use-mysql
+
+https://stackoverflow.com/questions/48128714/how-to-make-an-inner-join-in-django
+
