@@ -50,3 +50,8 @@ https://www.javatpoint.com/how-to-connect-mysql-to-django
 
 https://stackoverflow.com/questions/48128714/how-to-make-an-inner-join-in-django
 
+https://stackoverflow.com/questions/35760943/how-can-i-enable-cors-on-django-rest-framework
+
+
+
+
